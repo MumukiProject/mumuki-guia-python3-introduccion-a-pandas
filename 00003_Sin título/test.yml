@@ -3,4 +3,5 @@
     Feli,Perez,24
     Dani,Lopez,32
     Juani,Vazquez,19
-  ignore_whitespaces: true
+  ignore_whitespace: true
+  ignore_case: true
