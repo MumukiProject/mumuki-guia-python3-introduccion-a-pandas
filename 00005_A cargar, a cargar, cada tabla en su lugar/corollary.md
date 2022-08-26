@@ -1,0 +1,1 @@
+¡Está vivo! ⚡ ¡Apareció una tabla! Pero, momento...  ¿un `DataFrame`?  ¿Qué es eso? ¡Resolvamos el misterio! 🦇🎃
