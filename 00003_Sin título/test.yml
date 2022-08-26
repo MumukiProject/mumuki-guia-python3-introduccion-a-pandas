@@ -1,1 +1,6 @@
-- equal: foo
+- equal: |
+    nombre,apellido,edad
+    Feli,Perez,24
+    Dani,Lopez,32
+    Juani,Vazquez,19
+  ignore_whitespaces: true
