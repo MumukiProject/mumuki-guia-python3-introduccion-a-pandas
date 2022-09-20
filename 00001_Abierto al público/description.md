@@ -5,4 +5,4 @@ Primero lo primero: entendamos dónde encontrar nuestros tan deseados lotes de d
 * 🇲🇽 [datos.gob.mx](https://datos.gob.mx/)
 * 🇨🇱 [datos.gob.cl](https://datos.gob.cl/)
 
-> Explorá las páginas mencionadas, identificá qué tipo de información publican, **en qué formatos**. Luego respondé: ¿de qué temas tratan los lotes de datos que podemos encontrar en estos sitios?
+> Explorá las páginas mencionadas, identificá qué tipo de información publican y en qué formatos. Luego respondé: ¿de qué temas tratan los lotes de datos que podemos encontrar en estos sitios?
