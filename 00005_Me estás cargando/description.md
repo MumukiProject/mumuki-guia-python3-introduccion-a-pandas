@@ -4,7 +4,7 @@ Un vez que hayamos encontrado la dirección (y copiado en nuestro portapapeles �
 
 ```python
 cines = pd.read_csv("LINK")
-bicicleterias
+cines
 ```
 
 > Probá éste código y observá qué sucede.
