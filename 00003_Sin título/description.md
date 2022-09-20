@@ -11,7 +11,7 @@ Juani,Vazquez,19
 
 ¿Y si ahora quisieras agregar la información de cuál es su gusto de helado favorito?
 
- > Modificá el csv en el editor de código para que contenga la columna `helado_favorito` y refleje lo siguiente:
+ > Modificá el csv en el editor de código para que contenga la columna `helado_favorito` :ice_cream: y refleje lo siguiente:
 >
 >* a Feli le gusta el helado de `chocolate`;
 * el gusto favorito de Dani es `vainilla`;
