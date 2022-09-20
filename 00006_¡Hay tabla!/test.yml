@@ -1,1 +1,1 @@
-match: '.*DataFrame'
+match: .*DataFrame
