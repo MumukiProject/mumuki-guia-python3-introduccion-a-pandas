@@ -1,20 +1,10 @@
 Como si de un gusanito 🪱 se tratara, las tablas tienen _cabeza_ y _cola_: la cabeza refiere a las primeras `n` filas, mientras que la cola a las últimas `n`. Para obtener la cabeza y cola de un DataFrame podemos utilizar `head` y `tail` respectivamente.
 
-> Probalas en la consola escribiendo en orden:
+> En celdas diferentes, probá en tu cuaderno las siguientes expresiones:
 >
-
-> ```python
-> ムcines.head(5)
-> ```
->
-> ```python
-> ムcines.head(2)
-> ```
->
-> ```python
-> ムcines.tail(3)
-> ```
->
-> ```python
-> ムcines.tail(5)
-> ```
+> * `cines.head(5)`
+> * `cines.head(2)`
+> * `cines.tail(3)`
+> * `cines.tail(5)`
+> 
+> Prestá atención al orden: ¿notás algo?
