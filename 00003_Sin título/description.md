@@ -15,5 +15,5 @@ Juani,Vazquez,19
 >
 >* a Feli le gusta el helado de `chocolate`;
 * el gusto favorito de Dani es `vainilla`;
-* Juani siempre elige `frutilla;
+* Juani siempre elige `frutilla`;
 * a `Ale Rodriguez` de `33` años le fascina el helado de `durazno`.
