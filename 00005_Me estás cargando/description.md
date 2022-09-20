@@ -6,6 +6,7 @@ Y ahora sí, podremos finalmente cargarla en un `DataFrame` llamado `cines` util
 
 ```python
 import pandas as pd
+
 cines = pd.read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vRSa9oM9fC-QlT7VOeGhZQtrWnlNSTsk3U8DWGTOXUWtPH6u9o5O5eZ0kTg8mFTwAn9vMdGRK7o2SPB/pub?gid=969960562&single=true&output=csv")
 cines
 ```
