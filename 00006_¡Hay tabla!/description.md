@@ -3,11 +3,11 @@ Hasta ahora veníamos trabajando con valores como números (por ejemplo, el `1`,
 
 ```python
 # type es una función que nos permite saber el tipo de dato de un valor
->>> type(1)
+ム type(1)
 <class 'int'>
->>> type("hola mundo")
+ム type("hola mundo")
 <class 'str'>
->>> type(True)
+ム type(True)
 <class 'bool'>
 ```
 ... pero eso es muy limitado. Por eso vamos a usar ahora un nuevo tipo de dato llamado `DataFrame` que representan justamente tablas, compuestas por columnas y filas.
