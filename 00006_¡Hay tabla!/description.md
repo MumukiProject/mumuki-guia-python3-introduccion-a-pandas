@@ -10,10 +10,11 @@ Hasta ahora veníamos trabajando con valores como números (por ejemplo, el `1`,
 ム type(True)
 <class 'bool'>
 ```
-... pero eso es muy limitado. Por eso vamos a usar ahora un nuevo tipo de dato llamado `DataFrame` que representan justamente tablas, compuestas por columnas y filas.
+... pero eso es muy limitado. Por eso vamos a usar ahora un nuevo tipo de dato que representa justamente a las tablas, compuestas por columnas y filas.
 
-> Para verificar que este es el tipo de la variable `cines` escribí lo siguiente en la consola:
+> ¿Cómo se llama este tipo de dato? En una celda nueva, verificá el tipo de dato de la variable `cines`:
 >
 > ```python
 > type(cines)
 > ```
+> ¿Qué devuelve? Ingresalo a continuación
