@@ -1,1 +1,3 @@
-match: .*DataFrame
+match: 
+  expected: '.*DataFrame'
+  ignore_case: true
