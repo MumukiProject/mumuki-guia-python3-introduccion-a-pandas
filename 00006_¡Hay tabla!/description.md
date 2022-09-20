@@ -14,6 +14,6 @@ Hasta ahora veníamos trabajando con valores como números (por ejemplo, el `1`,
 
 > Para verificar que este es el tipo de la variable `cines` escribí lo siguiente en la consola:
 >
-```python
-type(cines)
-```
+> ```python
+> type(cines)
+> ```
