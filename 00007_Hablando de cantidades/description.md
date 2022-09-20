@@ -1,16 +1,9 @@
 ¿Te acordás de `len`? Previamente en el recorrido aprendimos que `len` es la primitiva con la que podemos obtener la cantidad de caracteres de un string o la cantidad de elementos de una lista. ¡Y funciona también con `DataFrames`!
 
-> Probá en la consola lo siguiente en orden:
+> Probá en tu cuaderno las siguientes expresiones:
 >
-> ```python
-> ムlen(cines)
-> ```
->
-> ```python
-> ムcines.columns
-> ```
+> * `len(cines)`
+> * `cines.columns`
+> * `len(cines.columns)`
 > 
-> ```python
-> ムlen(cines.columns)
-> ```
-> ¿Te imaginás que obtendremos en cada consulta?
+> ¿Qué devuelven?
