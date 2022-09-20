@@ -3,7 +3,7 @@
 > Probá en tu cuaderno las siguientes expresiones:
 >
 > * `len(cines)`
-> * `cines.columns`
+> * `list(cines.columns)`
 > * `len(cines.columns)`
 > 
 > ¿Qué devuelven?
