@@ -1,4 +1,4 @@
-El archivo CSV que vimos antes contenía información de personas, o al menos eso parece :person_shrugging:. Quizás se trate de sus apodos, apellidos y sus edades, o quizás sean estudiantes y nos esté informando la cantidad de materias aprobadas.
+El archivo CSV que vimos antes contenía información de personas, ...o al menos eso es lo que parece :person_shrugging:. Quizás se trate de sus apodos, apellidos y sus edades, o quizás sean estudiantes y nos esté informando la cantidad de materias aprobadas.
 
 Para evitar este tipo de ambigüedad, normalmente los archivos CSV contendrán en su primer renglón los títulos de cada columna. Por ejemplo así podría verse ahora nuestro `datos_ejemplo.csv`:
 
