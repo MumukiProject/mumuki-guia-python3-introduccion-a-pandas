@@ -2,7 +2,7 @@ Para poder trabajar con estas tablas en formato `csv` vamos a necesitar nuevas f
 
 En particular, la biblioteca que nos va a interesar ahora se llama `pandas`, una herramienta poderosa para el lenguaje Python, que posibilita manipular datos de un lote de forma programática. En otras palabras, va a permitirnos hacer las mismas operaciones que haríamos en una hoja de cálculo, pero utilizando código.
 
-> ¡Carguemos a nuestra biblioteca de ositos 🐼! Escribí en tu primer `import`...
+> ¡Carguemos a nuestra biblioteca de ositos 🐼! Escribí tu primer `import`...
 >
 > ```python
 > import pandas as pd
