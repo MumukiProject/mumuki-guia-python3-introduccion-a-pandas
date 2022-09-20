@@ -17,4 +17,4 @@ Hasta ahora veníamos trabajando con valores como números (por ejemplo, el `1`,
 > ```python
 > type(cines)
 > ```
-> ¿Qué devuelve? Ingresalo a continuación
+> 

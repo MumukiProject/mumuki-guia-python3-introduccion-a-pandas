@@ -1,4 +1,5 @@
-- match: 
-    expected: '.*DataFrame'
-    ignore_case: true
-    ignore_whitespace: true
+- keys: 
+    type:
+      match:
+        expected: '.*DataFrame'
+        ignore_whitespace: true
