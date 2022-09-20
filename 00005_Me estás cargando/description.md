@@ -11,4 +11,11 @@ cines = pd.read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vRSa9oM9fC-
 cines
 ```
 
-> Creá un _cuaderno interactivo_ en Colab o Jupyter (si no lo hiciste ya), agregá una celda de código, pegá el código anterior y ejecutá la celda. ¿Qué sucede? 
+> ¡Hora de ensuciarse las manos! 
+> 
+> 1. Creá un _cuaderno interactivo_ en Colab o Jupyter (si no lo hiciste ya)
+> 2. Agregá una celda de código
+> 3. Pegá el código anterior en una nueva celda
+> 4. Y por último, ejecutá la celda. 
+>
+> ¿Qué sucede? 
