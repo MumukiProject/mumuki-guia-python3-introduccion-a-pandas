@@ -9,7 +9,7 @@ Juani;Vazquez;19
 
 El problema es que en estos casos `read_csv` no funcionará :grimacing:. Pero que no cunda el pánico que se soluciona muy fácil 😌. ¡Sólo hay que pasarle un parámetro `sep` a `read_csv`!
 
-> Dejemos atrás los cines y cambiemos nuestro lote de datos. El archivo con el que vamos a trabajar a partir de ahora está separado por `;`. Cargalo en una celda nueva haciendo lo siguiente…
+> Dejemos atrás los cines y cambiemos nuestro lote de datos. El archivo con el que vamos a trabajar a partir de ahora está separado por `;`. Cargalo en una celda nueva haciendo lo siguiente...
 >
 > ```python
 > import pandas as pd # si en una celda anterior ya cargaste pandas,  
@@ -18,4 +18,4 @@ El problema es que en estos casos `read_csv` no funcionará :grimacing:. Pero qu
 > librerias
 > ```
 >
-> … y nos vemos en el ejercicio siguiente 👋.
+> ... y nos vemos en el ejercicio siguiente 👋.
