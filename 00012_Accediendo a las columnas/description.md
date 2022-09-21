@@ -1,5 +1,4 @@
-Ya sabemos que podemos conocer las columnas de un DataFrame haciendo `.columns` pero ahora vamos a acceder a una columna en particular. Para eso utilizaremos corchetes de la siguiente manera `tabla[nombre_columna]`. Por ejemplo, para acceder a los COLUMNA de nuestra tabla podemos hacer `librerias[COLUMNA]`. 
+Ya sabemos que podemos conocer las columnas de un `DataFrame` haciendo `.columns` pero ahora vamos a acceder a una columna en particular. Para eso utilizaremos corchetes de la siguiente manera `tabla[nombre_columna]`. Por ejemplo, para acceder a los nombres de ciudad de nuestra tabla podemos hacer `librerias["city_name"]`. 
 
-¡Conozcamos alguna otra columna!
+> Probá acceder a otras columnas del `DataFrame` `librerias`, como `sector` y `update_year`. ¿Y qué pasa si intentás acceder a una columna que no existe? 
 
-> Obtené en el editor de código la columna `OTRA_COLUMNA` del DataFrame `librerias`.
