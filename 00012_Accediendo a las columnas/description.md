@@ -1,4 +1,4 @@
-Ya sabemos que podemos conocer las columnas de un `DataFrame` haciendo `.columns` pero ahora vamos a acceder a una columna en particular. Para eso utilizaremos corchetes de la siguiente forma: 
+Ya sabemos que podemos conocer las columnas de un `DataFrame` haciendo `.columns` pero ahora vamos a acceder a una columna en particular 🏛️. Para eso utilizaremos corchetes de la siguiente forma: 
 
 ```python
 tabla[nombre_columna] # el nombre se pasa como string
