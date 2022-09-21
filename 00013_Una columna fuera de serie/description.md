@@ -1,7 +1,7 @@
 Ya sabemos que a lo que llamamos tabla `pandas` lo llama `DataFrame`. De la misma forma, lo que llamamos columna `pandas` lo llama `Series`. ¡Sí, en plural aunque sea una! 
 
 ```python
-type(librerias["sector"])
+ム type(librerias["sector"])
 pandas.core.series.Series
 ```
 
