@@ -1,4 +1,4 @@
-Dejemos atrás los cines y cambiemos un poco nuestro lote de datos. Al comenzar esta lección te contamos que _csv_ es una extensión de archivos que tiene sus valores separados por comas. Sin embargo, a veces puede suceder que se utilice otro carácter para separar los valores, como por ejemplo, punto y coma: 
+Al comenzar esta lección te contamos que _csv_ es una extensión de archivos que tiene sus valores separados por comas. Sin embargo, a veces puede suceder que se utilice otro carácter para separar los valores, como por ejemplo, punto y coma: 
 
 ```csv
 nombre;apellido;edad
@@ -9,8 +9,7 @@ Juani;Vazquez;19
 
 El problema es que en estos casos `read_csv` no funcionará :grimacing:. Pero que no cunda el pánico que se soluciona muy fácil 😌.
 
-> El archivo con el que vamos a trabajar a partir de ahora está separado por `;`
-> Cargalo en una celda nueva haciendo lo siguiente…
+> Dejemos atrás los cines y cambiemos nuestro lote de datos. El archivo con el que vamos a trabajar a partir de ahora está separado por `;`. Cargalo en una celda nueva haciendo lo siguiente…
 > 
 > ```python
 > import pandas as pd # si en una celda anterior ya cargaste pandas,  
