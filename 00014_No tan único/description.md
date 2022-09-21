@@ -1,7 +1,23 @@
-Como habrás notado, en una columna se pueden repetir valores. Por suerte podemos obtener un listado de los valores sin repetir con la primitiva `unique` que se utiliza escribiendo `tabla[nombre_columna].unique()`. Por ejemplo:
+Como habrás notado, en una columna se pueden repetir valores. Justamente por eso `pandas` nos permite obtener un listado de los valores sin repetir con la operación `unique`:
 
 ```python
-librerias[COLUMNA].unique()
+tabla[nombre_columna].unique()
 ```
 
-> Probalo en la consola haciendo `librerias[COLUMNA].unique()`. Luego hace una consulta que te permita obtener la cantidad de elementos que tiene la columna `COLUMNA` sin contar los repetidos. 
+Por ejemplo:
+
+```python
+ム librerias["update_year"].unique()
+array([2018, 2020])
+```
+
+Como vemos, `unique` retorna ese conjunto de valores únicos en la forma de un `array`, que a los fines prácticos podemos considerarlo como algo muy, muy parecido a una lista. Si de todas formas queremos convertirlo a un `list` 🔄, podremos hacer: 
+
+```python
+ム list(librerias["update_year"].unique())
+[2018, 2020]
+```
+
+Pero normalmente no será necesario, dado que los `array`s son también secuencias con las que podrás hacer casi todas las mismas operaciones que con los `list`s. 
+
+> ¡Pongamos a prueba lo visto! ¿De **cuántas** ciudades (diferentes) tenemos información en este lote de datos?

@@ -1,15 +1,13 @@
-¡Perfecto!
-
-En la última consulta probablemente hiciste algo como:
+¡Perfecto! :clap: Probablemente hiciste algo como:
 
 ```python
-len(cines[COLUMNA].unique())
-RETORNO
+ム len(cines["city_name"].unique())
+254
 ```
 
-Como esta operación es tan común, contamos con un atajo, la función infija `nunique`:
+Como esta operación es tan común, contamos con un atajo, la operación `nunique`:
 
 ```python
-cines[COLUMNA].nunique()
-RETORNO
+ム cines["city_name"].nunique()
+254
 ```
