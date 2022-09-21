@@ -1,1 +1,0 @@
-¡Exacto! Es importante notar que ni `head` ni `tail` ordenan la tabla bajo ningún criterio, sino que sólo nos dan las primeras filas, según la posición en la que originalmente estuvieran.
