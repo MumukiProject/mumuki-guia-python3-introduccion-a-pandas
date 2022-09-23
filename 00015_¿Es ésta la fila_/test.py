@@ -9,3 +9,12 @@ class Test(unittest.TestCase):
   def test_ultima_libreria_es_un_series(self):
     self.assertEquals(type(ultima_libreria), pd.Series)
     
+  def test_primera_libreria_tiene_los_contenidos_correctos(self):
+    self.assertEquals((primera_libreria), librerias.iloc[0], "no es el valor correcto")
+    
+  def test_segunda_y_tercera_libreria_tiene_los_contenidos_correctos(self):
+    self.assertEquals((segunda_y_tercera_libreria), librerias.iloc[1:3], "no es el valor correcto")
+        
+  def test_ultima_libreria_tiene_los_contenidos_correctos(self):
+    self.assertEquals((ultima_libreria), librerias.iloc[-1], "no es el valor correcto")
+    
