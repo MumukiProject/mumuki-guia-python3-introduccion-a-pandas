@@ -10,7 +10,7 @@ class Test(unittest.TestCase):
     self.assertEquals(type(ultima_libreria), pd.Series)
     
   def test_primera_libreria_tiene_los_contenidos_correctos(self):
-    self.assertEquals(primera_libreria.to_dict(), librerias.iloc[0].to_dict(), "no es el valor correcto")
+    self.assertEquals(primera_libreria.to_dict(), librerias.iloc[0].to_dict())
     
   def test_segunda_y_tercera_libreria_tiene_los_contenidos_correctos(self):
     self.assertEquals(segunda_y_tercera_libreria.to_dict(), librerias.iloc[1:3].to_dict())
