@@ -25,7 +25,7 @@ Como vemos, `iloc[]` nos devolverá un `Series`, que ahora representa una fila e
 ```
 
 ||city_id|prov_id|dep_id|obs|category|prov_name|(...)|
-|---|---|---|---|---|---|---|(...)|
+|---|---|---|---|---|---|---|---|
 |5|2000010|2|2000||Librerias|Ciudad Autónoma de Buenos Aires|(...)|
 |6|2000010|2|2000||Librerias|Ciudad Autónoma de Buenos Aires|(...)|
 |7|2000010|2|2000||Librerias|Ciudad Autónoma de Buenos Aires|(...)|
