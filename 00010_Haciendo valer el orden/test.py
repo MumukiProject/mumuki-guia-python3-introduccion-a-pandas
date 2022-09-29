@@ -6,4 +6,10 @@ class Test(unittest.TestCase):
     self.assertEquals(type(cines_mas_amplios), pd.DataFrame)
     
   def test_cines_mas_amplios_tiene_tres_filas(self):
-    self.assertEquals(len(cines_mas_amplios), 3)    
+    self.assertEquals(len(cines_mas_amplios), 3)   
+    
+  def test_cines_mas_amplios_contiene_los_cines_mas_amplios(self):
+    seats = list(cines_mas_amplios["seats"])
+    self.assertTrue(299 in seats, "Contiene al cine más amplio")
+    self.assertTrue(198 in seats, "Contiene al segundo cine más amplio")
+    self.assertTrue(30 in seats, "Contiene al tercer cine más amplio")
