@@ -1,4 +1,6 @@
 class Test(unittest.TestCase):
+  def __init__(self):
+    self.maxDiff = None
 
   def test_primera_libreria_es_un_series(self):
     self.assertEquals(type(primera_libreria), pd.Series)
