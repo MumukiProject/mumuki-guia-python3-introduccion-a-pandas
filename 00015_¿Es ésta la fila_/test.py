@@ -1,5 +1,5 @@
 class Test(unittest.TestCase):
-  def __init__(self):
+  def setUp(self):
     self.maxDiff = None
 
   def test_primera_libreria_es_un_series(self):
