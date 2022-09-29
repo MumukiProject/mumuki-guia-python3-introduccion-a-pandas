@@ -13,14 +13,15 @@ El problema es que en estos casos `read_csv` no funcionará :grimacing:. Pero qu
 personas = pd.read_csv(ubicacion, sep=";")
 ```
 
-> Dejemos atrás los cines y cambiemos nuestro lote de datos. El archivo con el que vamos a trabajar a partir de ahora es un _tsv_, es decir, un archivo con valores separados por tabulaciones `Tab ↹ `. Cargalo en una celda nueva haciendo lo siguiente…
+> Dejemos atrás los cines y cambiemos nuestro lote de datos. A partir de ahora trabajaremos con un archivo de librerías :books: en formato _tsv_, es decir, un archivo con valores separados por tabulaciones `Tab ↹ `. Cargalo en una celda nueva haciendo lo siguiente...
 >
 > ```python
 > import pandas as pd # si en una celda anterior ya cargaste pandas,  
->                     # esta línea la podés omitir
+                                        # esta línea la podés omitir
 > librerias = pd.read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vRSa9oM9fC-QlT7VOeGhZQtrWnlNSTsk3U8DWGTOXUWtPH6u9o5O5eZ0kTg8mFTwAn9vMdGRK7o2SPB/pub?gid=1473087913&single=true&output=tsv", sep="\t")
 > librerias
 > ```
 >
-> … y nos vemos en el ejercicio siguiente 👋.
+> ... y nos vemos en el ejercicio siguiente 👋.
+
 
