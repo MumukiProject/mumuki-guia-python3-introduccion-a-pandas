@@ -15,7 +15,7 @@ class Test(unittest.TestCase):
     self.assertEquals(primera_libreria.to_dict(), librerias.iloc[0].to_dict())
     
   def test_segunda_y_tercera_libreria_tiene_los_contenidos_correctos(self):
-    self.assertEquals(segunda_y_tercera_libreria.to_dict(), librerias.iloc[1:3].to_dict())
+    self.assertEquals(segunda_y_tercera_libreria.to_dict("records"), librerias.iloc[1:3].to_dict("records"))
         
   def test_ultima_libreria_tiene_los_contenidos_correctos(self):
     self.assertEquals(ultima_libreria.to_dict(), librerias.iloc[-1].to_dict())
