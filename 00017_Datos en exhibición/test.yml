@@ -9,7 +9,7 @@
 - name: '¿Cuál es la localidad con más museos?'
   keys:
     idxmax:
-      match: '.*[Bb]uenos\w*[Aa]ires.*'
+      match: '.*[Bb]uenos [Aa]ires.*'
 - name: '¿Cuántos museos tiene la localidad que más museos tiene?'
   keys:
     max:
