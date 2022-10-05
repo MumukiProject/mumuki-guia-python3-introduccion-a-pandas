@@ -10,6 +10,7 @@
   keys:
     idxmax:
       contain: 'Buenos Aires'
+      ignore_case: true
 - name: '¿Cuántos museos tiene la localidad que más museos tiene?'
   keys:
     max:
