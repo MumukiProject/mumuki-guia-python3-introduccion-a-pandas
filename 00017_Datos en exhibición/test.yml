@@ -14,7 +14,7 @@
       ignore_case: true
 - name: '¿Cuántos museos tiene la localidad que más museos tiene?'
   keys:
-    nunique:
+    max:
       equal: 132            
       
       
