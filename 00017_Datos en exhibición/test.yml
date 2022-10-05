@@ -1,0 +1,8 @@
+- name: '¿Cuántos museos hay?'
+  keys:
+    len:
+      equal: 1182
+- name: '¿En cuántas localidades diferentes están estos museos?'
+  keys:
+    nunique:
+      equal: 518
