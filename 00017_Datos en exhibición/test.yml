@@ -9,8 +9,7 @@
 - name: '¿Cuál es la localidad con más museos?'
   keys:
     idxmax:
-      contain: 'Buenos Aires'
-      ignore_case: true
+      match: '.*[Bb]uenos\w*[Aa]ires.*'
 - name: '¿Cuántos museos tiene la localidad que más museos tiene?'
   keys:
     max:
