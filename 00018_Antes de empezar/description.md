@@ -4,4 +4,4 @@ La manera más sencilla de empezar a trabajar con ellos es utilizando la platafo
 
 Dentro de cualquiera de las dos plataformas vas a poder crear cuadernos, en los que convivirán fragmentos (llamados _celdas_) de texto (para tomar notas) y código (para ejecutar experimentos). 
 
-:checkered_flag: Una vez que hayas podido crear un cuaderno en Juyter o Colab, acompañános al siguiente ejercicio.  
+:checkered_flag: Una vez que hayas podido crear un cuaderno en Jupyter o Colab, acompañános al siguiente ejercicio.  
