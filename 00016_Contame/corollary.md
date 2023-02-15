@@ -3,7 +3,7 @@
 Pasemos en limpio lo que acabamos de ejecutar. `value_counts` nos retorna una columna (`Series`) con la cantidad de ocurrencias de cada valor de la columna que le pasamos como argumento: 
 
 ```python
-ム pd.value_counts(librerias["prov_name"])
+ムpd.value_counts(librerias["prov_name"])
 Ciudad Autónoma de Buenos Aires                          608
 Buenos Aires                                             386
 Córdoba                                                  163

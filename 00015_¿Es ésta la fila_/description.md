@@ -1,7 +1,7 @@
 Ya vimos cómo acceder a una columna por su nombre, pero ¿y si queremos acceder a una fila en particular? ¡Para hacerlo contamos con `iloc`!  Por ejemplo, si quisiéramos obtener la quinta fila de nuestro dataset deberíamos hacer:
 
 ```python
-ム librerias.iloc[4] # sí, con corchetes
+ムlibrerias.iloc[4] # sí, con corchetes
 city_id                                2000010
 prov_id                                      2
 dep_id                                    2000
@@ -21,7 +21,7 @@ Como vemos, `iloc[]` nos devolverá un `Series`, que ahora representa una fila e
 ¡Y no se parecen sólo en eso! Usando `iloc` también podemos obtener segmentos usando la sintaxis de _slices_, que ahora nos devolverá un `DataFrame`: 
 
 ```python
-ム librerias.iloc[5:8]
+ムlibrerias.iloc[5:8]
 ```
 
 ||city_id|prov_id|dep_id|obs|category|prov_name|(...)|

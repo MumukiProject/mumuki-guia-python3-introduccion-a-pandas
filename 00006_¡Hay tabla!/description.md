@@ -3,11 +3,11 @@ Hasta ahora veníamos trabajando con valores como números (por ejemplo, el `1`,
 
 ```ruby
 # type es una función que nos permite saber el tipo de dato de un valor
-ム type(1)
+ムtype(1)
 <class 'int'>
-ム type("hola mundo")
+ムtype("hola mundo")
 <class 'str'>
-ム type(True)
+ムtype(True)
 <class 'bool'>
 ```
 ... pero eso es muy limitado. Por eso vamos a usar ahora un nuevo tipo de dato que representa justamente a las tablas, compuestas por columnas y filas.
